@@ -1,16 +1,35 @@
-## Hi there 👋
+# Hi, I'm Javeria Naz | Entry Level SQA Engineer
 
-<!--
-**javeria-sqa/javeria-sqa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Entry level Software QA Engineer who enjoys understanding how systems work, testing them thoroughly, and helping teams build reliable products. I focus on manual testing, test case writing, defect reporting, and requirement validation. Always learning, always improving.
 
-Here are some ideas to get you started:
+## What I Do
+• Functional testing  
+• UI and cross browser testing  
+• Negative and exploratory testing  
+• Test case design and execution  
+• Bug reporting using JIRA  
+• QA documentation  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Tech and Tools
+• Manual Testing  
+• JIRA  
+• Python  
+• Flask  
+• HTML CSS JavaScript  
+• SQL (basic)
+
+## Current Focus
+• Strengthening QA concepts  
+• Practicing test case design  
+• Improving bug reporting skills  
+• Preparing for QA internship opportunities
+
+## Projects
+• Keyword Based Search Engine  
+Worked on testing, input validation, bug reporting, and basic UI design using Python Flask, HTML, CSS, and JavaScript.
+
+## Find Me Online
+• Resume: https://flowcv.me/javeria-sqa  
+• GitHub: https://github.com/javeria-sqa  
+• LinkedIn: https://www.linkedin.com/in/javeria-sqa  
+• Email: javeria.naz337@gmail.com
