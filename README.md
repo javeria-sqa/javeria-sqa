@@ -29,7 +29,7 @@ Entry level Software QA Engineer who enjoys understanding how systems work, test
 Worked on testing, input validation, bug reporting, and basic UI design using Python Flask, HTML, CSS, and JavaScript.
 
 ## Find Me Online
-• Resume: https://flowcv.me/javeria-sqa  
+• Resume: https://flowcv.com/resume/3g7i0er0qmfi 
 • GitHub: https://github.com/javeria-sqa  
 • LinkedIn: https://www.linkedin.com/in/javeria-sqa  
 • Email: javeria.naz337@gmail.com
